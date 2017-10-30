@@ -93,6 +93,7 @@ footer h3{
 
 footer p{
   text-align: center;
+  justify-content:center;
 }
 
 body, html{
