@@ -1,5 +1,6 @@
 header {
   padding: 20px 0;
+  background-color: black;
 }
 
 header .row,
@@ -26,12 +27,12 @@ header p{
 }
 
 header a{
-  color: black; 
+  color: white; 
   text-decoration: none;
 }
 
 header a:hover{
-  color: purple;
+  color: #FFC300;
   text-decoration: none;
   margin: 0;
 }
