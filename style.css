@@ -91,6 +91,10 @@ footer h3{
    font-size 16px;
 }
 
+footer p{
+  text-align: center;
+}
+
 body, html{
   margin:0;
   padding:0;
