@@ -82,6 +82,10 @@ section h5{
  justify-content: left;
 }
 
+#row{
+  display: inline;
+}
+
 footer{
   background-color: black;
   color: white;
