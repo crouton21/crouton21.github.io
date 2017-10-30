@@ -46,13 +46,13 @@ header a:hover{
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-h2{
+section h2{
   margin-left: 20px;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
 
-h3{
+section h3{
   margin-left: 20px;
   margin-bottom:10px;
   font-size: 18px;
@@ -60,7 +60,7 @@ h3{
   font-family: "Times New Roman", Times, serif;
 }
 
-h4{
+section h4{
   margin-left: 20px;
   margin-bottom:10px;
   font-size:16px;
