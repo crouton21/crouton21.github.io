@@ -29,7 +29,8 @@ header a{
 }
 
 header a:active{
-  color: purple;
+  color: white;
+  background-color: purple;
   text-decoration: none;
   border-style: solid;
   border-width: 2px;
