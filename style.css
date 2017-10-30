@@ -55,20 +55,21 @@ section .row{
 }
 
 section h2{
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+}
+
+section h3{
   margin: 0;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
 
-section h3{
-  margin-left: 20px;
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-}
-
 section h4{
-  margin-left: 40px;
-  font-size:16px;
+  margin-left: 20px;
+  font-size:18px;
   font-family: "Times New Roman", Times, serif;
 }
 
