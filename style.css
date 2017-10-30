@@ -1,8 +1,24 @@
-.col-sm-9 text-right{
-  display: inline;
-  justify-content: right;
+header {
+  padding: 20px 0;
 }
 
-p{
-  color: red;
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
 }
