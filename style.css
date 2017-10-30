@@ -4,10 +4,13 @@ header {
   background-color: black;
 }
 
-header .row,
-footer .row {
+header .row{
   display: flex;
   align-items: center;
+}
+
+footer .row {
+  
 }
 
 header h1 {
