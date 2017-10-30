@@ -47,7 +47,8 @@ header a:hover{
   background-image: url('clip_of_face_Russian_Poster_Art.png');
   background-repeat: no-repeat;
   background-size: 65%;
-  height: 630px;
+  height: 600px;
+  margin-bottom:-30px;
   margin-left: 50px;
   margin-right: 50px;
 }
