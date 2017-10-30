@@ -82,10 +82,6 @@ section h5{
  justify-content: left;
 }
 
-hr{
- color: black; 
-}
-
 footer{
   background-color: black;
   color: white;
@@ -94,4 +90,8 @@ footer{
 h3{
    font-family: "Times New Roman", Times, serif;
    font-size 16px;
+}
+
+body{
+ background-color: black; 
 }
