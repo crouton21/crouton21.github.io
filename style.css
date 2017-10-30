@@ -92,6 +92,8 @@ footer h3{
    font-size 16px;
 }
 
-body{
- background-color: black; 
+body, html{
+  margin:0;
+  padding:0;
+   background-color: black; 
 }
