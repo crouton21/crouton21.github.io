@@ -46,25 +46,34 @@ header a:hover{
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+section{
+  padding: 20px 0; 
+}
+
+section .row{
+  display: block;
+}
+
 section h2{
-  margin-left: 20px;
+  margin: 0;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
 
 section h3{
   margin-left: 20px;
-  margin-bottom:10px;
   font-size: 18px;
-  padding-left: 10px;
   font-family: "Times New Roman", Times, serif;
 }
 
 section h4{
-  margin-left: 20px;
-  margin-bottom:10px;
+  margin-left: 40px;
   font-size:16px;
-  padding-left: 20px;
   font-family: "Times New Roman", Times, serif;
+}
+
+section p{
+  display: flex;
+  justify-content: flex-end;
 }
 
